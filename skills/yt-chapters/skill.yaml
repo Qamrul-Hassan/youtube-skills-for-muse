@@ -1,0 +1,4 @@
+name: yt-chapters
+title: YouTube Chapters from Transcript
+description: Write YouTube chapters from a transcript with chapters.py, validated against YouTube's rules (00:00 start, 3+ entries, 10s minimum each).
+include_in_prompt: false

@@ -1,0 +1,10 @@
+[project]
+name = "youtube-skills-for-muse"
+version = "0.2.0"
+description = "Eleven YouTube agent skills with local Python tools, adapted for Muse."
+requires-python = ">=3.10"
+license = { text = "MIT" }
+readme = "README.md"
+
+[project.urls]
+Upstream = "https://github.com/Jakeschincariol/youtube-agent-skill"

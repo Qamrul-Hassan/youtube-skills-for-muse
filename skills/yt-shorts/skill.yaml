@@ -1,0 +1,4 @@
+name: yt-shorts
+title: YouTube Shorts Finder
+description: Find the Shorts hiding inside a long video from its transcript — self-contained 20-55 second moments with a new first line scored by hookscore.py.
+include_in_prompt: false

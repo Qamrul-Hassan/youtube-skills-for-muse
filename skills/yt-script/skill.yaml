@@ -1,0 +1,4 @@
+name: yt-script
+title: YouTube Script Writer
+description: Turn one idea into a script — five hooks off 21 formulas, scored with hookscore.py, then the spoken script with retention beats marked.
+include_in_prompt: false

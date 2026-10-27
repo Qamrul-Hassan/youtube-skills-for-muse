@@ -1,0 +1,4 @@
+name: yt-retention
+title: YouTube Retention Reader
+description: Read a Studio audience-retention CSV export and find where viewers actually leave (hook leak, cliffs, slide), then name the single biggest leak and one change.
+include_in_prompt: false

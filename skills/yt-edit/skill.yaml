@@ -1,0 +1,4 @@
+name: yt-edit
+title: YouTube Edit Decision List
+description: Turn a transcript into an edit decision list with deadair.py — dead air, filler cues and retakes, with timecodes.
+include_in_prompt: false

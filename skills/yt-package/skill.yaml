@@ -1,0 +1,4 @@
+name: yt-package
+title: YouTube Title and Thumbnail Pairing
+description: Write and lint the title and thumbnail as one pairing with title.py, checking truncation, duplication and vagueness before publish.
+include_in_prompt: false

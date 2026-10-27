@@ -1,0 +1,4 @@
+name: yt-comment
+title: YouTube Comment Triage and Replies
+description: Draft replies to YouTube comments in the creator's voice, triaged into questions, corrections, praise and bait — with which one to pin.
+include_in_prompt: false
